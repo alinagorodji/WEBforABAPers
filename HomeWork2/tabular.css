@@ -1,0 +1,23 @@
+body {
+	padding: 0;
+    margin: 0;
+}
+table{
+    width: 100%;
+}
+.TableRow1 tr{
+    background-color: orange;
+    height: 100px;
+}
+.TableRow2 tr{
+    background-color: green;
+    height: 150px;
+}
+.TableRow3 tr{
+    background-color: blue;
+    height: 100px;
+}
+.TableRow4 tr{
+    background-color: gray;
+    height: 100px;
+}

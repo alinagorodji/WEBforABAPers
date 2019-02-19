@@ -1,0 +1,38 @@
+body{
+  /* width: 100%;*/
+   height: 100%;
+}
+.Header{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 15%;
+    background-color: aquamarine;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.Sidebar a{
+    display: block;
+    width: 5%;
+    height: 5%;
+    margin: initial;
+}
+.Central{
+    width: 70%;
+    height: 70%;
+    margin: 1% 5% 1% 5%;
+    text-align: justify;
+    position: relative;
+    border-radius: 10px;
+    background-color: blueviolet;
+    padding: 10%;
+}
+.Footer{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 15%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: aquamarine;
+}
