@@ -1,0 +1,21 @@
+*{
+    width: 100%;
+}
+.Button1{
+    width: 10%;
+    height: 5%;
+    align-self: center;
+    margin-left: 45%;
+}
+.Text{
+    width: 100%;
+    height: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.Button2{
+    width: 10%;
+    height: 5%;
+    align-self: center;
+    margin-left: 45%;
+}
